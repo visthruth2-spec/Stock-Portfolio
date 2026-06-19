@@ -1,0 +1,49 @@
+{
+    "john": {
+        "password": "1234",
+        "wallet": 26644.0,
+        "portfolio": {
+            "TCS": {
+                "qty": 1,
+                "buy_price": 3500.0
+            },
+            "TATASTEEL": {
+                "qty": 45,
+                "buy_price": 160.0
+            },
+            "INFY": {
+                "qty": 8,
+                "buy_price": 1600.0
+            }
+        }
+    },
+    "visthruth": {
+        "password": "1234",
+        "wallet": 7000.0,
+        "portfolio": {
+            "TCS": {
+                "qty": 10,
+                "buy_price": 3500.0
+            },
+            "INFY": {
+                "qty": 5,
+                "buy_price": 1600.0
+            }
+        }
+    },
+    "3": {
+        "password": "3",
+        "wallet": 50000,
+        "portfolio": {}
+    },
+    "pranathi": {
+        "password": "8888",
+        "wallet": 25219.0,
+        "portfolio": {
+            "TCS": {
+                "qty": 7,
+                "buy_price": 3599.0
+            }
+        }
+    }
+}

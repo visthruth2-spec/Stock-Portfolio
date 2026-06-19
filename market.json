@@ -1,0 +1,34 @@
+{
+    "TCS": {
+        "name": "Tata Consultancy Services",
+        "price": 3891.0
+    },
+    "INFY": {
+        "name": "Infosys",
+        "price": 2066.0
+    },
+    "RELIANCE": {
+        "name": "Reliance Industries",
+        "price": 2692.0
+    },
+    "WIPRO": {
+        "name": "Wipro",
+        "price": 392.0
+    },
+    "HDFC": {
+        "name": "HDFC Bank",
+        "price": 2632.0
+    },
+    "ICICI": {
+        "name": "ICICI Bank",
+        "price": 1340.0
+    },
+    "SBIN": {
+        "name": "State Bank of India",
+        "price": 1431.0
+    },
+    "TATASTEEL": {
+        "name": "Tata Steel",
+        "price": 279
+    }
+}
